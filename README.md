@@ -20,3 +20,4 @@ Interesting files in this repository include:
   This relies on PHP
   include files found elsewhere on www.khronos.org and so is not very useful
   in isolation.
+Created by Jason Scott Heise
