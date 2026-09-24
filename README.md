@@ -21,4 +21,3 @@ Interesting files in this repository include:
   include files found elsewhere on www.khronos.org and so is not very useful
   in isolation.
 Created by Jason Scott Heise
-Owned by Jason Scott Heise & Elon Musk https://www.grok.com  https://www.x.com
